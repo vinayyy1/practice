@@ -21,7 +21,7 @@ int main() {
 	            flag=true;
 	        }n--;
 	    }
-	    if(true){
+	    if(flag){
 	        cout<<"YES"<<endl;
 	    }else{
 	        cout<<"NO"<<endl;
